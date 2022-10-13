@@ -9,3 +9,5 @@ This repository contains some web3 related JS scripts.
 
 
 **watch.js && watchSubscribe.js** - used for monitoring incoming ETH transactions to an address
+
+**App.js** - was created to showcase how one can use Infura with React, by creating a frontend that can interact with the blockchain. 
